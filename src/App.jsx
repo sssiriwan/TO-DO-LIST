@@ -37,7 +37,7 @@ function App() {
       <div className=" flex items-center mb-5  justify-center">
         <h1 className="text-3xl font-bold text-black">TO-DO List</h1>
         <img
-          src="src/assets/To-Do-Img/icon.png"
+          src="public/icon.png"
           className=" w-[30px] ml-[10px]  "
         />
       </div>
