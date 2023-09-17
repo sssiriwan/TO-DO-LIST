@@ -30,7 +30,15 @@ ul li::before{
 ul li.checked {
   color: #555;
   text-decoration: line-through;
+
 }
 /* ul li.checked::before {
   background-image: url(src/assets/To-Do-Img/checked.png);
 } */
+
+li {
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+
+}
